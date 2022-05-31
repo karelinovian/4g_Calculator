@@ -1,0 +1,7 @@
+C:\_up-step\VS\4g_Calculator\bin\Debug\4g_Calculator.exe.config
+C:\_up-step\VS\4g_Calculator\bin\Debug\4g_Calculator.exe
+C:\_up-step\VS\4g_Calculator\bin\Debug\4g_Calculator.pdb
+C:\_up-step\VS\4g_Calculator\obj\Debug\4g_Calculator.csproj.AssemblyReference.cache
+C:\_up-step\VS\4g_Calculator\obj\Debug\4g_Calculator.csproj.CoreCompileInputs.cache
+C:\_up-step\VS\4g_Calculator\obj\Debug\4g_Calculator.exe
+C:\_up-step\VS\4g_Calculator\obj\Debug\4g_Calculator.pdb
